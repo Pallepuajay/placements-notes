@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 100px;
+    min-height: 100vh;
+    font-size: 60px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+/* .one
+{
+   background: url("./bg3.jpeg");
+   background-position : center;
+   background-size: cover;
+   background-attachment: fixed;
+} */
+
+
+
+.one
+{
+   background: url("./bg3.jpeg") center/cover no-repeat fixed;
+   /* background-position : center;
+   background-size: cover;
+   background-attachment: fixed; */
+}

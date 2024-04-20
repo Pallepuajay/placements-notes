@@ -1,0 +1,46 @@
+
+
+
+/* FONT-SIZE, FONT-FAMIL
+
+FONT STACK ,GENERIC-FAMILY
+
+GOOGLE FONTS */
+
+
+
+
+
+
+
+
+
+
+
+
+body
+{
+    font-size: 1.5rem;
+    font-family: Verdana;
+    
+}
+
+
+/* FONT-STACK */
+
+
+
+
+
+h1{
+    background: lightblue;
+    font-family: Georgia;
+}
+
+h2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+

@@ -1,0 +1,21 @@
+
+
+
+
+body{
+    text-align: center;
+}
+
+
+.block
+{
+    background-color: blue;
+    color: white;
+    width: 200px;
+    margin: 20px auto;
+}
+.inline
+{
+    background: orangered;
+    
+}

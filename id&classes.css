@@ -1,0 +1,16 @@
+.green
+{
+    color: darkgreen;
+}
+.red
+{
+    color: red;
+}
+#title
+{
+    font-size: 48px;
+}
+.uppercase
+{
+    text-transform: uppercase;
+}

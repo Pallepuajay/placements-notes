@@ -1,0 +1,33 @@
+/* 
+CSS
+
+===> FLOAT,CLEAR
+===>POSITION:STATIC,RELATIVE,ABSOLUTE,FIXED
+===>MEDIA---QUERIES
+===>Z-INDEX
+===>::BEFORE AND ::AFTER PSEDO ELEMENTS
+
+*/
+
+
+.banner
+{
+    border: 5px solid red;
+    padding: 10px;
+    overflow: hidden;
+}
+.one
+{
+    width: 200px;
+    float: right
+}
+.two
+{
+    width: 200px;
+    float: left;
+    height: 700px; 
+}
+p
+{
+    clear: both;
+}

@@ -1,0 +1,50 @@
+
+
+
+
+/* GRADIENT===>> TO USE THE MAKE THE TWO OR MORE COLORS IN SINGLE COLOR*/
+
+
+div
+{
+    width: 250px;
+    height:250px;
+    margin: 10px;
+}
+.one{
+    background: linear-gradient(red,green);
+    background: linear-gradient(to bottom,rgb(21,190,233))
+}
+
+.two
+{
+    background: linear-gradient(
+        rgb(48,88,219),
+        rgb(233,85,51),
+        green,
+        black
+    );
+}
+
+
+
+/* WE CAN USE IN DERGREES */
+
+.three
+{
+    background: linear-gradient(150deg,red,green);
+    background: linear-gradient(150deg,red,green);
+}
+.four
+{
+    background: linear-gradient(to top right,red,green);
+}
+
+.five
+{
+    background: linear-gradient(#345421,#46254862);
+}
+.six
+{
+    background: linear-gradient(to left,rgba(0,0,0,0.3));
+}

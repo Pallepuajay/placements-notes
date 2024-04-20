@@ -1,0 +1,56 @@
+
+
+
+
+div{
+    background: url("./laptop.png.jpg");
+}
+
+
+.big
+{
+    background: url(./laptop.png.jpg);
+}
+
+
+.small
+{
+    background: url(./laptop.png.jpg);
+}
+
+
+
+/*  BACKGROUND FEATURES  */
+
+/* background-repeat : repeat;
+background-repeat : no-repeat;
+background-repeat : repeat-x;
+background-repeat : repeat-y;
+background-repeat : space;
+
+
+background-repeat : round; */
+/* background-size : cover;  === cover the whole image in page*/
+
+/* background-position === we can set the poistion of image; 
+
+background-position : center;
+background-position : left;
+background-position: right;
+background-position: top;
+background-position: x direction % y direction %;
+background-position:50% 50%;
+
+
+*/
+
+
+
+
+
+/* BACKGROUND ATTACHMENT ===>>> to make background image can fixed  */
+
+
+
+
+

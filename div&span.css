@@ -1,0 +1,20 @@
+div
+{
+    color: red;
+    background-color: lightblue;
+}
+span
+{
+    text-transform: uppercase;
+    color: aquamarine;
+}
+.div_red
+{
+    color: darkorange;
+    background-color: darkseagreen;
+}
+.div_green
+{
+    color:cyan;
+    background-color: coral;
+}

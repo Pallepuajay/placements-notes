@@ -1,0 +1,73 @@
+/* h1
+{
+    color: blue;
+    font-size: 22px;
+}
+h2
+{
+    color: aqua;
+    font-size: 39px;
+} */
+/* ELEMENT SELECTORS
+GROUP SELECTORS
+ID SELECTORS
+CLASS SELECTORS */
+
+
+
+
+/* ELEMENT SELECTORS */
+
+
+/* 
+h1
+{
+    color: blue;
+}
+p
+{
+    color: brown;
+} */
+
+
+
+/* GROUP SELECTORS */
+
+
+
+/* body
+{
+    color:coral;
+} */
+
+
+
+
+/* ID SELECTORS */
+
+/* #title
+{
+    color: gold;
+}
+#footer_heading
+{
+    color: chartreuse;
+    background-color: black;
+} */
+
+
+
+
+/* class selectors */
+
+
+
+
+.green
+{
+    color: darkgreen;
+}
+.red
+{
+    color: red;
+}

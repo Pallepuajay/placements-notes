@@ -1,0 +1,27 @@
+
+
+
+/* 
+BASIC SELECTORS 
+*/
+
+*
+{
+    color: cornflowerblue;
+}
+#heading
+{
+    font-size: 40px;
+    text-transform: capitalize;
+    color: blue;
+}
+.heading
+{
+    font-size: 27px;
+    text-transform: uppercase;
+    color: red;
+}
+p{
+    letter-spacing: 7px;
+    color: green;
+}

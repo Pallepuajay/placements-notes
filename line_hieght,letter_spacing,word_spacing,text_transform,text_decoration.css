@@ -1,0 +1,25 @@
+/* 1) LINE HEIGHT
+2) LETTER-SPACING
+3) WORD-COUNTING
+4) WORD-SPACING
+5) TEXT-TRANSFORM
+6) TEXT-DECORATION */
+h1
+{
+    text-transform: uppercase;
+}
+.one
+{
+    line-height: 5px;
+}
+.two
+{
+    letter-spacing: 50px;
+}
+.three
+{
+    word-spacing: 20px;
+}
+a{
+    text-decoration: dotted;
+}

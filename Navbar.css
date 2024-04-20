@@ -1,0 +1,30 @@
+div
+{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+ul li a
+{
+    list-style: none;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    background: #222;
+    color: white;
+    display: block;
+    padding: 10px 10px;
+    margin: 7px;
+    text-align: center;
+}

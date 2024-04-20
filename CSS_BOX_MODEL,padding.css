@@ -1,0 +1,120 @@
+/* 
+
+CSS BOX-MODEL
+1) padding
+2) margin
+3) border */
+
+
+
+
+
+
+/* 1) padding */
+
+/* h1
+{
+    background: red;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+}
+p{
+    background: blue;
+    color: white;
+  
+    /* PADDING ALL SIDES */
+    /* padding: 100px; */
+    /* PADDING :TOP+BOTTOM and LEFT+RIGHT */
+    /* padding: 50px 120px; */
+    /* PADDING: TOP RIGHT BOTTOM LEFT */
+
+    /* padding: 30px 60px 90px 10px; */
+
+
+
+/* } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* 2)  MARGIN */
+
+
+
+
+
+
+
+
+/* 
+*
+{
+    margin: 0;
+}
+
+
+h1
+{
+    background: orangered;
+
+padding: 20px;
+  
+    /* margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px; */
+    /* margin: 0px;
+
+}
+p
+{
+    background: purple;
+    color: white;
+    padding-top: 59px;
+    margin-top: 0px;
+}
+
+
+
+ */ 
+
+
+/* 3) BORDER */
+
+
+
+
+
+*
+{
+    margin: 0;
+}
+h1
+{
+   background: orangered;
+   padding: 20px;
+   border-style: solid;
+   border-width: 10px;
+   border-color: green;
+   border-bottom-color: greenyellow;
+   border: 20px solid blue;
+}
+p{
+    background: blue;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+    border: solid 7px greenyellow;
+    border-top-color: 15px dashed darkmagenta;
+}

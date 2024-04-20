@@ -1,0 +1,31 @@
+/* DISPLAY PROPERTY:
+
+BLOCK: always starts a new line and takes full width.
+INLINE: does not start and only take up as much as content space */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.block
+{
+    background-color: blue;
+    color: white;
+    display: inline;
+}
+.inline
+{
+    background: orangered;
+    display: block;
+}

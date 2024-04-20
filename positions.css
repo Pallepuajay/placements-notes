@@ -1,0 +1,80 @@
+/* 
+POSITION ==> 
+1)STATIC (DEFAULT==> one after one)
+2) RELATIVE==> to move the text from its orginal position           
+
+*/
+
+
+
+/* 2) RELATIVE: */
+
+
+
+
+
+
+/* div
+{
+    border: 5px solid red;
+    background: yellow;
+    margin-top: 40px;
+    position: static;
+}
+.one
+{
+    background: blue;
+    color: white;
+    position: relative;
+    /* top: 400px; */
+    /* right: 100px;
+} */
+/* .two
+{
+    background: green;
+    color: white;
+}
+.special
+{
+    background: lightcoral;
+    font-size: 25px;
+} */ 
+
+
+
+/* 3) ABSOLUTE */
+
+
+
+div
+{
+    border: 5px solid red;
+    background: yellow;
+    margin-top: 40px;
+    position: static;
+}
+.one
+{
+    background: blue;
+    color: white;
+    position: relative;
+    /* top: 400px; */
+    right: 100px;
+}
+.two
+{
+    background: green;
+    color: white;
+}
+.special
+{
+    background: lightcoral;
+    font-size: 25px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+
+
+

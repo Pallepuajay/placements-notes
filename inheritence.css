@@ -1,0 +1,20 @@
+body
+{
+   color:blue;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 1.5em;
+   
+}
+div
+{
+    color:red;
+    
+    background: lightblue;
+    border: 2px solid red;
+    font-family: 'Times New Roman', Times, serif;
+   line-height: normal;
+}
+h3
+{
+    color: green;
+}

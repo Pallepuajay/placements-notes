@@ -1,0 +1,46 @@
+/* 
+<!-- 
+
+
+
+    MEDIA QUERIS ===>
+
+    1) RESONSIVE DESIGN 
+    2)STYELE ELEMENTS ON DIFFERENT SCREN SIZES
+    3) MIN-WIDTH: ---STARTING FROM THAT WIDTH
+    4)MAX-WIDTH: ---UP TO
+   5) MOBILE FIRST
+ --> */
+
+
+ body{
+    background: yellow;
+ }
+.banner
+{
+    color:black;
+    text-decoration: underline;
+    text-transform: capitalize;
+    padding: 10px;
+}
+
+@media screen and (min-width:576px)
+{
+    body
+    {
+        background: blue;
+    }
+    .banner{
+        background: chocolate;
+    }
+    h1
+    {
+        font-size: 60px;
+        text-decoration: none;
+        text-align: center;
+    }
+    
+}
+
+
+

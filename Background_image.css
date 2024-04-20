@@ -1,0 +1,18 @@
+div
+{
+    height: 100px;
+    color: red;
+}
+
+.big
+{
+    background-image: url("C:\Users\Dell\Desktop\envi.jpeg");
+}
+.small
+{
+    background: url("images\laptop.png.jpg");
+}
+.folder
+{
+    background: url("images\laptop.png.jpg");
+}

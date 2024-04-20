@@ -1,0 +1,45 @@
+
+/* 
+
+transition: change over time
+transition-property;
+transition-duration;
+
+
+
+*/
+
+
+div
+{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+div:hover
+{
+    background: black;
+}
+.one
+{
+    background: blue;
+}
+.two
+{
+    background: green;
+}
+.three
+{
+    background: orangered;
+    /* transition-property: background, border-radius;
+    transition-duration: 3s,0.2s;
+    transition-delay: 5s;
+    
+*/
+transition: background 4s 3s;
+}
+.three:hover
+{
+    /* border-radius: 50%; */
+    background-color: black;
+}

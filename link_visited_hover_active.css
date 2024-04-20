@@ -1,0 +1,26 @@
+
+
+/*
+1) a:link
+2) a:visited
+3) a:hover
+4) a:active
+
+ */
+ a:link
+ {
+    color: orangered;
+
+ }
+ a:visited
+ {
+    color: black;
+ }
+ a:hover
+ {
+    color: peru;
+ }
+ a:active
+ {
+    color: green;
+ }

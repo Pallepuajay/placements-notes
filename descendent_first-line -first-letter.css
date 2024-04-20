@@ -1,0 +1,11 @@
+
+
+p::first-line
+{
+    font-weight: bold;
+    color: red;
+}
+p::first-letter
+{
+    font-size: 22rem;
+}

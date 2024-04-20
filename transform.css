@@ -1,0 +1,41 @@
+
+
+
+
+/* 
+
+transform: translate(),scale(),rotate(),skew()
+===> we can possible move in x and y directions.
+*/
+
+div
+{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+.one
+{
+    background-color: orangered;
+    /* transform: translateX(30px);
+    transform: scaleX(0.5);
+    transform: rotateZ(45deg);
+    transform: rotateX(45deg);
+
+ */
+}
+.two
+{
+    background-color: blue;
+    transform: translateY(30px);
+}
+.three
+{
+    background: green;
+    /* transform: translate(20px,40px); */
+    /* transform: scale(0.5,0.5);
+    transform: scale(0.7);
+    transform: rotateY(70deg);
+    transform: skew(20deg);
+*/
+}

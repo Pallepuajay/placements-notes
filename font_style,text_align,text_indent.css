@@ -1,0 +1,33 @@
+.body{
+    font-size: bolder;
+    font-size: italic;
+    text-align: right;
+}
+
+
+
+.main
+{
+    text-align: center;
+}
+
+
+
+.one
+{
+    font-weight: bold;
+    font-style: italic;
+    text-indent: 50px;
+}
+.two
+{
+    font-weight: bolder;
+    font-style: oblique;
+
+}
+.three
+{
+    font-size: 400;
+    font-style: normal;
+    text-align: left;
+}

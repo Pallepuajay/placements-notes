@@ -1,0 +1,19 @@
+
+/* 1) TEXT-SHADOW */
+h1
+{
+    color: blue;
+    font-size: 3.5rem;
+    /* text-shadow: x-axis y-axis blur color; */
+    text-shadow: 2px 5px 1px red;
+}
+/* 2) BOX-SHADOW */
+
+
+.box
+{
+    width: 250px;
+    height: 100px;
+    background: green;
+    box-shadow: 5px 7px 8px red;
+}

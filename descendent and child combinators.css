@@ -1,0 +1,28 @@
+/*
+DECSENDENT AND CHILD COMBINATORS 
+ */
+
+
+body
+{
+    background-color: black;
+}
+
+div h1
+{
+
+    color: red;
+}
+div > h1
+{
+    color: blue;
+}
+header h1
+{
+
+    color: yellow;
+}
+header > h1
+{
+    color: green;
+}

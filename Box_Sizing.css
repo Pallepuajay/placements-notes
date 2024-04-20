@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box
+{
+    width: 200px;
+    color: white;
+    height: 200px;
+}
+
+.box1
+{
+    background-color: orangered;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.box2
+{
+    background-color:yellow;
+   
+}
+.box3
+{
+    background-color: blue;
+    padding: 30px;
+    box-sizing: border-box;
+}

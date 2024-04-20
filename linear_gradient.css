@@ -1,0 +1,22 @@
+div
+{
+    min-height: 100vh;
+    color: orangered;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 70px;
+}
+.banner
+{
+    
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-attachment: fixed;
+}
+.header
+{
+    background: linear-gradient(rgba(0,0,00.3)),url("bg1.jpg");
+}

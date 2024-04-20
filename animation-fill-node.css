@@ -1,0 +1,38 @@
+
+
+div
+{
+    width: 100px;
+    height: 100px
+    
+}
+.animation
+{
+    background: blue;
+    animation: newAnimation 10s 2 ;
+    animation-fill-mode: forwards;
+}
+
+@keyframes newAnimation
+{
+    0%
+    {
+        opacity: 0;
+    }
+    25%
+    {
+        transform: translateX(200px);
+        opacity: 0.25;
+    }
+    50%
+    {
+        transform: translateX(-100px);
+        opacity: 1;
+    }
+    100%
+    {
+        transform: translateX(0px);
+        opacity: 0.5;
+    }
+
+}
