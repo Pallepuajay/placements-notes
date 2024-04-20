@@ -1,0 +1,51 @@
+
+
+/* ANIMATIONS */
+
+div
+{
+    width: 200px;
+    height: 100px;
+
+}
+.transition
+{
+    background: blue;
+    transition: all 1s linear;
+}
+.transition:hover
+{
+    transform: translateX(200px);
+    background: orangered;
+}
+.animation
+{
+    background: red;
+    animation-name: movingAnimation;
+    animation-duration: 5s;
+    animation-iteration-count: 2;
+}
+
+@keyframes movingAnimation
+{
+    0%
+    {
+        transform: translateX(20px);
+    }
+    50%
+    {
+        transform: translateX(200px);
+        background: black;
+    }
+    75%
+    {
+        transform: translateX(-250px);
+        background: yellowgreen;
+    }
+    50%
+    {
+        transform: translateX(20px);
+        background: lightcoral;
+    }
+
+}
